@@ -22,20 +22,6 @@ Requirements
 
 
 
-## How to Run the Project
-
-###  Project Setup
-
-1. Create the project directory and navigate into it:
-
-
-```bash
-mkdir -p ~/projects/notes_manager
-cd ~/projects/notes_manager
-
-
----
-
 ## Features
 
 The application provides the following features:
@@ -46,7 +32,7 @@ The application provides the following features:
 4. **Delete All Notes** – Remove all notes from the file.
 5. **Exit** – Close the application.
 
----
+
 
 
 ## Commands Used
