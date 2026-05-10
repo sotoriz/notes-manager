@@ -28,27 +28,11 @@ Requirements
 
 1. Create the project directory and navigate into it:
 
+
 ```bash
 mkdir -p ~/projects/notes_manager
 cd ~/projects/notes_manager
 
-
-2. Create the required files
-
-```bash
-touch notes.py notes.txt README.md
-
-3. Add the Python code to notes.py
-
-```bash
-vim notes.py
-
-Paste the program code, then save and exit
-
-4. Run the application
-
-```bash
-python notes.py
 
 ---
 
@@ -77,20 +61,9 @@ The application provides the following features:
 | `cat notes.txt` | View saved notes |
 
 
-## Features
-
-| Option | Function |
-|-------:|----------|
-| 1 | Add Note |
-| 2 | View Notes |
-| 3 | Search Notes |
-| 4 | Delete All Notes |
-| 5 | Exit |
-
 
 ## Project Structure
 
----
 
 ```text
 notes_manager/
@@ -98,7 +71,6 @@ notes_manager/
 ├── notes.txt
 └── README.md
 
----
 
 | File | Purpose |
 |------|---------|
