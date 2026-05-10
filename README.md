@@ -22,6 +22,12 @@ Requirements
 
 
 
+3. Add the Python code to notes.py
+
+```bash
+vim notes.py
+```
+
 ## Features
 
 The application provides the following features:
