@@ -4,6 +4,7 @@ def add_note():
         file.write(note + "\n")
     print("Note added.")
 
+
 def view_notes():
     try:
         with open("notes.txt", "r") as file:
@@ -16,6 +17,7 @@ def view_notes():
     except FileNotFoundError:
         print("No notes file yet.")
 
+
 def search_notes():
     keyword = input("Enter keyword to search: ")
     try:
@@ -26,11 +28,13 @@ def search_notes():
     except FileNotFoundError:
         print("No notes file found.")
 
+
 def delete_notes():
     confirm = input("Delete all notes? (y/n): ")
     if confirm.lower() == "y":
         open("notes.txt", "w").close()
         print("All notes deleted.")
+
 
 def main():
     while True:
@@ -56,6 +60,7 @@ def main():
             break
         else:
             print("Invalid choice.")
+
 
 if __name__ == "__main__":
     main()
