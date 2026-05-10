@@ -32,6 +32,7 @@ vim notes.py
 
 ```bash
 python notes.py
+```
 
 ## Features
 
