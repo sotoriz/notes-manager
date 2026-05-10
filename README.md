@@ -14,7 +14,6 @@ This project is designed to help beginners practice:
 - Using Vim or Nano for editing files
 
 
-
 ## Requirements
 
 1. Python 3.x
