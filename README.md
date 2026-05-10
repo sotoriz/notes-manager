@@ -50,16 +50,15 @@ The application provides the following features:
 
 ## Project Structure
 
+| File | Purpose |
+|------|---------|
+| `notes.py` | Main Python application |
+| `notes.txt` | Stores notes |
+| `README.md` | Documentation |
+
 
 ```text
 notes_manager/
 ├── notes.py
 ├── notes.txt
 └── README.md
-
-
-| File | Purpose |
-|------|---------|
-| `notes.py` | Main Python application |
-| `notes.txt` | Stores notes |
-| `README.md` | Documentation
