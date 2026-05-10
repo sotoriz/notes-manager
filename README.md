@@ -15,20 +15,36 @@ This project is designed to help beginners practice:
 
 
 
-Requirements
+## Requirements
 
 1. Python 3.x
 2. Linux, macOS, Windows, or Termux on Android
 
+
 ## How to Run the Project
 
-1. Add the Python code to notes.py
+1. Create the project directory
+
+```bash
+mkdir -p ~/projects/notes_manager
+cd ~/projects/notes_manager
+```
+
+2. Create the required files
+
+```bash
+touch notes.py notes.txt README.md
+```
+
+3. Add the Python code to notes.py
 
 ```bash
 vim notes.py
 ```
+Paste the program code, then save and exit.
 
-2. Run the application
+
+4. Run the application
 
 ```bash
 python notes.py
