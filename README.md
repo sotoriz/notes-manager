@@ -89,3 +89,12 @@ notes_manager/
 ├── notes.py
 ├── notes.txt
 └── README.md
+
+
+
+## Author
+Sotonye Orofama
+
+
+## License
+This project is for educational purposes.
