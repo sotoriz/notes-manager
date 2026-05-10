@@ -13,7 +13,7 @@ This project is designed to help beginners practice:
 - Linux command-line operations
 - Using Vim or Nano for editing files
 
----
+
 
 Requirements
 
@@ -21,7 +21,6 @@ Requirements
 2. Linux, macOS, Windows, or Termux on Android
 
 
----
 
 ## How to Run the Project
 
@@ -92,11 +91,15 @@ The application provides the following features:
 
 ## Project Structure
 
+---
+
 ```text
 notes_manager/
 ├── notes.py
 ├── notes.txt
 └── README.md
+
+---
 
 | File | Purpose |
 |------|---------|
