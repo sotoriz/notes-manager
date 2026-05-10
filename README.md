@@ -20,9 +20,9 @@ Requirements
 1. Python 3.x
 2. Linux, macOS, Windows, or Termux on Android
 
+## How to Run the Project
 
-
-3. Add the Python code to notes.py
+1. Add the Python code to notes.py
 
 ```bash
 vim notes.py
