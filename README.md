@@ -28,6 +28,11 @@ Requirements
 vim notes.py
 ```
 
+2. Run the application
+
+```bash
+python notes.py
+
 ## Features
 
 The application provides the following features:
