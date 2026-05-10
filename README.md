@@ -52,7 +52,6 @@ python notes.py
 
 ---
 
-
 ## Features
 
 The application provides the following features:
